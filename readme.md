@@ -326,7 +326,7 @@ Pfad: `/support/`
 Erwartet:
 ```
 {
-	"empfaenger": "dennis.weinrich@gmx.net",
+	"empfaenger": "dennis.weinrich@itc-dortmund.de",
 	"betreff": "Hallo",
 	"text": "Hallo vom Support"
 }
